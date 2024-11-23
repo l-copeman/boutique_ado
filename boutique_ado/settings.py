@@ -26,10 +26,10 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = 'django-insecure-yo)qukq27d%j+qz_c(ei^a5iqm%u*5*n4a8dw-jga$fphy_yxh'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
 ALLOWED_HOSTS = ['8000-lcopeman-boutiqueado-fzga8kqqdsg.ws-eu116.gitpod.io',
-'boutique-ado-ecommerce.herokuapp.com']
+'boutique-ado-ecommerce-e443c865c839.herokuapp.com']
 
 
 # Application definition
