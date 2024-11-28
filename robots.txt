@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://boutique-ado-ecommerce-e443c865c839.herokuapp.com/sitemap.xml
